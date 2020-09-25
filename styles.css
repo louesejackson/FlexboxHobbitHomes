@@ -41,8 +41,8 @@ h1 {
 }
 
 img {
-    min-width: 400px; 
-    min-height: 400px;
+    width: 400px; 
+    height: 400px;
     border-radius: 20px;
 }
 
@@ -51,6 +51,7 @@ img {
 /* MOBILE DEVICES */
 @media only screen 
   and (max-width: 688px) 
+  and (max-device-width: 688px)
   /* and (-webkit-min-device-pixel-ratio: 2)  */
   { 
     body{
