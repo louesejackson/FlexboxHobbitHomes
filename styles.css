@@ -51,7 +51,7 @@ img {
 
 /* MOBILE DEVICES */
 @media only screen 
-  and (max-width: 688px) 
+  and (max-width: 751px) 
   /* and (max-device-width: 688px) */
   and (-webkit-min-device-pixel-ratio: 1) 
   { 
@@ -63,7 +63,7 @@ img {
 /* TABLET DEVICES */
 
 @media only screen 
-  and (min-width: 689px) 
+  and (min-width: 752px) 
   and (max-width: 992px) 
   /* and (-webkit-min-device-pixel-ratio: 2) */
   { 
