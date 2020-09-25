@@ -51,9 +51,9 @@ img {
 
 /* MOBILE DEVICES */
 @media only screen 
-  and (max-width: 43em) 
+  and (max-width: 688px) 
   /* and (max-device-width: 688px) */
-  and (-webkit-min-device-pixel-ratio: 2) 
+  and (-webkit-min-device-pixel-ratio: 1) 
   { 
     body{
         background-color: #ffaf33;
