@@ -58,6 +58,9 @@ img {
     body{
         background-color: #ffaf33;
     }
+    h1 {
+        font-style: italic;
+    }
 }
 
 /* TABLET DEVICES */
